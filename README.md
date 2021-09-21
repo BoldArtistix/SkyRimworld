@@ -8,4 +8,4 @@ Adds 20 Skyrim OST tracks to Rimworld.
 * Also categorized a few for moments of tension to be played during battles and attacks.
 
 ## Installation
-Copy *skyrimSounds* to your Rimworld Mods folder
+Copy *SkyRimworld* to your Rimworld Mods folder
