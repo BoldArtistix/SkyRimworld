@@ -1,5 +1,5 @@
 # SkyRimworld
-![Preview](/skyrimSounds/About/Preview.png)
+![Preview](/About/Preview.png)
 
 Adds 20 Skyrim OST tracks to Rimworld.
 
