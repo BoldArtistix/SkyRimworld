@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<!-- Winter -->
+	
+	<SongDef>
+		<clipPath>frostfall</clipPath>
+		<commonality>2.0</commonality>
+		<allowedSeasons>
+			<li>Winter</li>
+		</allowedSeasons>
+	</SongDef>
+
+	<!-- Day -->
+	
+    <SongDef>
+        <clipPath>dragonsreach</clipPath>
+    	<volume>0.7</volume>
+    	<allowedTimeOfDay>Day</allowedTimeOfDay>
+    </SongDef>
+    
+    <SongDef>
+        <clipPath>underAnAncientSun</clipPath>
+    	<volume>0.7</volume>
+    	<allowedTimeOfDay>Day</allowedTimeOfDay>
+    </SongDef>
+    
+    <SongDef>
+        <clipPath>dawn</clipPath>
+    	<volume>0.7</volume>
+    	<allowedTimeOfDay>Day</allowedTimeOfDay>
+    </SongDef>
+    
+    <!-- Night -->
+    
+    <SongDef>
+	    <clipPath>silentFootsteps</clipPath>
+	    <allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+    
+    <SongDef>
+	    <clipPath>nightWithoutStars</clipPath>
+	    <allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+	
+	<SongDef>
+	    <clipPath>intoDarkness</clipPath>
+	    <allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+    
+    <!-- Any Time -->
+    
+	<SongDef>
+		<clipPath>pastPresent</clipPath>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>ancientStones</clipPath>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>awake</clipPath>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>unbrokenRoad</clipPath>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>cityGates</clipPath>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>masser</clipPath>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>distantHorizons</clipPath>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>jerallMountains</clipPath>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>secunda</clipPath>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>imperialThrone</clipPath>
+	</SongDef>
+    
+    <!-- Tension -->
+    
+	<SongDef>
+    	<clipPath>toothAndClaw</clipPath>
+    	<volume>1.0</volume>
+    	<tense>true</tense>
+	</SongDef>
+	
+	<SongDef>
+    	<clipPath>deathOrSovngarde</clipPath>
+    	<volume>1.0</volume>
+    	<tense>true</tense>
+	</SongDef>
+	
+	<SongDef>
+    	<clipPath>steelOnSteel</clipPath>
+    	<volume>1.0</volume>
+    	<tense>true</tense>
+	</SongDef>
+
+</Defs>
