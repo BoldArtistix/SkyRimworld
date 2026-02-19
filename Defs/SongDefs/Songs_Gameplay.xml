@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+    <!-- Nighttime Tracks -->
+	<SongDef>
+		<clipPath>silent_footsteps</clipPath>
+        <volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>dragonsreach</clipPath>
+        <volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>masser</clipPath>
+        <volume>0.85</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>into_darkness</clipPath>
+        <volume>0.95</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>beneath_the_ice</clipPath>
+        <volume>0.9</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+	
+	
+	<!-- Morning Tracks -->
+	<SongDef>
+		<clipPath>secunda</clipPath>
+        <volume>0.85</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>dawn</clipPath>
+        <volume>0.85</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>kynes_peace</clipPath>
+        <volume>0.85</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+	
+	
+	<!-- General Tracks -->
+	<SongDef>
+		<clipPath>awake</clipPath>
+        <volume>0.8</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>from_past_to_present</clipPath>
+        <volume>0.8</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>unbroken_road</clipPath>
+        <volume>0.8</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>ancient_stones</clipPath>
+        <volume>0.8</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>the_city_gates</clipPath>
+        <volume>0.8</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>distant_horizons</clipPath>
+        <volume>0.8</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>imperial_throne</clipPath>
+        <volume>0.8</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>unbound</clipPath>
+        <volume>0.8</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>far_horizons</clipPath>
+        <volume>0.8</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>solitude</clipPath>
+        <volume>0.8</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>sky_above_voice_within</clipPath>
+        <volume>0.85</volume>
+	</SongDef>
+	
+	
+	<!-- Seasonal Tracks -->
+	<SongDef>
+		<clipPath>under_an_ancient_sun</clipPath>
+        <volume>0.8</volume>
+		<allowedSeasons>
+			<li>Winter</li>
+			<li>Fall</li>
+		</allowedSeasons>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>the_jerall_mountains</clipPath>
+        <volume>0.8</volume>
+		<allowedSeasons>
+			<li>Winter</li>
+		</allowedSeasons>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>frostfall</clipPath>
+        <volume>0.8</volume>
+		<allowedSeasons>
+			<li>Winter</li>
+		</allowedSeasons>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>a_winters_tale</clipPath>
+        <volume>0.8</volume>
+		<allowedSeasons>
+			<li>Winter</li>
+		</allowedSeasons>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>the_bannered_mare</clipPath>
+        <volume>0.8</volume>
+		<allowedSeasons>
+			<li>Fall</li>
+		</allowedSeasons>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>the_streets_of_whiterun</clipPath>
+        <volume>0.8</volume>
+		<allowedSeasons>
+			<li>Spring</li>
+		</allowedSeasons>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>the_white_river</clipPath>
+        <volume>0.8</volume>
+		<allowedSeasons>
+			<li>Spring</li>
+		</allowedSeasons>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>silence_unbroken</clipPath>
+        <volume>0.85</volume>
+		<allowedSeasons>
+			<li>Winter</li>
+		</allowedSeasons>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>tundra</clipPath>
+        <volume>0.85</volume>
+		<allowedSeasons>
+			<li>Winter</li>
+		</allowedSeasons>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>out_of_the_cold</clipPath>
+        <volume>0.85</volume>
+		<allowedSeasons>
+			<li>Fall</li>
+		</allowedSeasons>
+	</SongDef>
+	
+
+	<!-- Tension Tracks -->
+	<SongDef>
+		<clipPath>tooth_and_claw</clipPath>
+        <volume>0.8</volume>
+		<tense>true</tense>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>death_or_sovngarde</clipPath>
+        <volume>0.8</volume>
+		<tense>true</tense>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>steel_on_steel</clipPath>
+        <volume>0.8</volume>
+		<tense>true</tense>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>one_they_fear</clipPath>
+        <volume>0.8</volume>
+		<tense>true</tense>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>caught_off_guard</clipPath>
+        <volume>0.75</volume>
+		<tense>true</tense>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>blood_and_steel</clipPath>
+        <volume>0.75</volume>
+		<tense>true</tense>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>watch_the_skies</clipPath>
+        <volume>0.75</volume>
+		<tense>true</tense>
+	</SongDef>
+	
+	
+</Defs>
